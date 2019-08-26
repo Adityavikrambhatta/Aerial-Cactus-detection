@@ -1,6 +1,5 @@
 Capstone Project Aerial Cactus Detection
-The following reuirements are for the project 
-run on windows.
+For running the project on the pc following are the requirements:
 
 The libraries required :
 1.  OpenCV(cv2)
